@@ -1,0 +1,70 @@
+global:
+  language: "🇳🇱"
+
+article:
+  anchor_label: "Anker"
+  date: "{{ .Date }}"
+  date_updated: "Bijgewerkt: {{ .Date }}"
+  draft: "Concept"
+  edit_title: "Edit inhoud"
+  reading_time:
+    one: "{{ .Count }} minuut"
+    other: "{{ .Count }} minuten"
+  reading_time_title: "Leestijd"
+  table_of_contents: "Inhoudsopgave"
+  word_count:
+    one: "{{ .Count }} woord"
+    other: "{{ .Count }} woorden"
+  views:
+    one: "{{ .Count }} weergave"
+    other: "{{ .Count }} weergaven"
+  likes:
+    one: "{{ .Count }} like"
+    other: "{{ .Count }} likes"
+  part_of_series: "Dit artikel is onderdeel van een serie."
+  part: "Deel"
+  this_article: "Dit artikel"
+
+author:
+  byline_title: "Auteur"
+
+code:
+  copy: "Kopiëren"
+  copied: "Gekopieerd"
+
+error:
+  404_title: "Pagina niet gevonden :confused:"
+  404_error: "Fout 404"
+  404_description: "De pagina die je probeert te bezoeken lijkt niet te bestaan."
+
+footer:
+  dark_appearance: "Schakel over naar donker theme"
+  light_appearance: "Schakel over naar licht thema"
+  powered_by: "Aangedreven door {{ .Hugo }} &amp; {{ .Theme }}"
+
+list:
+  externalurl_title: "Link naar externe site"
+  no_articles: "Er zijn hier geen artikels om weer te geven."
+
+nav:
+  scroll_to_top_title: "Naar boven scrollen"
+  skip_to_main: "Naam hoofdinhoud gaan"
+
+search:
+  open_button_title: "Zoeken (/)"
+  close_button_title: "Sluiten (Esc)"
+  input_placeholder: "Zoeken"
+
+sharing:
+  email: "Sturen via email"
+  facebook: "Delen via Facebook"
+  linkedin: "Delen via LinkedIn"
+  pinterest: "Pin op Pinterest"
+  reddit: "Plaats op Reddit"
+  twitter: "Tweet op Twitter"
+
+shortcode:
+  recent_articles: "Recent"
+
+recent:
+  show_more: "Meer weergeven"
