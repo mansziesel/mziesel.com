@@ -17,9 +17,7 @@ enableCodeCopy = true
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "/img/bg.jpg" # used as default for background images 
-
-highlightCurrentMenuArea = true
+defaultBackgroundImage = "img/Mountains_BG.jpg" # used as default for background images 
 smartTOC = true
 smartTOCHideUnfocusedChildren = true
 

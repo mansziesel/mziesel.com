@@ -40,7 +40,7 @@ error:
 footer:
   dark_appearance: "Schakel over naar donker theme"
   light_appearance: "Schakel over naar licht thema"
-  powered_by: "Aangedreven door {{ .Hugo }} &amp; {{ .Theme }}"
+  powered_by: "Aangedreven door {{ .Hugo }}"
 
 list:
   externalurl_title: "Link naar externe site"
