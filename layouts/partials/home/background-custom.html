@@ -7,6 +7,7 @@
                     {{ $homepageImage := "" }}
                     {{ with .Site.Params.defaultBackgroundImage }}{{ $homepageImage = resources.Get . }}{{ end }}
                     {{ with .Site.Params.homepage.homepageImage }}{{ $homepageImage = resources.Get . }}{{ end }}
+                    {{ $homepageImage := $homepageImage.Resize "x1000" }}
                     {{ if not (eq $homepageImage "") }}
                     <img class="w-full h-[1000px] object-cover m-0 nozoom" src="{{ $homepageImage.RelPermalink }}" role="presentation">
                     <div
