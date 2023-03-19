@@ -1,4 +1,0 @@
-[minify]
-  minifyOutput = true 
-    [minify.tdewolff.html]
-      keepComments = true

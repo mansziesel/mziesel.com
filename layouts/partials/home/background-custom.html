@@ -22,7 +22,7 @@
                     {{ with .Site.Author.image }}
                     {{ $authorImage := resources.Get . }}
                     {{ if $authorImage }}
-                    {{ $authorImage := $authorImage.Fill "320x320" }}
+                    {{ $authorImage := $authorImage.Fill "480x480" }}
                     <img class="mb-2 rounded-full h-60 w-60" width="240" height="240"
                         alt="{{ $.Site.Author.name | default " Author" }}" src="{{ $authorImage.RelPermalink }}" />
                     {{ end }}
