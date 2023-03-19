@@ -16,10 +16,14 @@
   weight = 10
 
 [[main]]
-  name = "Contact"
-  pageRef = "contact"
+  name = "Over mij"
+  pageRef = "over-mij"
   weight = 20
 
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 30
 
 #[[main]]
 #  name = "Parent"

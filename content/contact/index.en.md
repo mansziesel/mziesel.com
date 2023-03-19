@@ -5,4 +5,3 @@ draft: true
 ---
 My email address is {{< cloakemail "mans@mziesel.com" >}}
 
-{{< ref "contact-bedankt" >}}
