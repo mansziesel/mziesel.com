@@ -1,19 +1,19 @@
 ---
 title: "Skills Heroes"
-date: 2023-03-19T14:35:25+01:00
+date: 2023-03-26
 tags: ["skills", "ervaring"]
 heroStyle: "big"
 ---
-In 2022 heb ik van mijn docent Tamme Kuipers de vraag gekregen of ik mee wilde doen aan de wedstrijd [ICT-beheerder](https://worldskillsnetherlands.nl/wedstrijd/skillsheroes/ict-beheerder/) 
-van [Skills Heroes](https://worldskillsnetherlands.nl/skillsheroes/watisskillsheroes/).
+In 2022 kreeg ik van mijn docent Tamme Kuipers de vraag of ik wilde deelnemen aan de wedstrijd ICT-beheerder van Skills Heroes.
 
 ### Wat is Skills Heroes?
-Skills Heroes zijn vakwedstrijden voor het mbo, er doen ongeveer 50 vakken mee aan de wedstrijden.
+
+Skills Heroes zijn vakwedstrijden voor het mbo, waarbij ongeveer 50 vakken vertegenwoordigd zijn.
 
 ### Kwalificatie
-De kwalificatiewedstrijd voor de ICT-beheerders was in Leiden. Er deden 24 deelnemers mee aan deze wedstrijd, 
-ik zat bij de eerste 8 kandidaten, wat betekent dat ik door mag naar de finale.
+
+De kwalificatiewedstrijd voor de ICT-beheerders vond plaats in Leiden. Er namen 24 deelnemers deel aan deze wedstrijd. Ik was een van de eerste 8 kandidaten, wat betekent dat ik door mag naar de finale.
 
 ### De finale
-Op 23 en 24 Maart is Skills the Finals, bij de finale zal ik get opnemen tegen de andere 7 studenten die het tot te finale gemaakt hebben. 
-Dit evenement neemt plaats in de RAI amsterdam
+
+Op 23 en 24 maart 2023 vond Skills the Finals plaats in Amsterdam. In de finale nam ik het op tegen de rest van de studenten die het tot de finale hadden geschopt. Uiteindelijk ben ik zevende geworden van Nederland.
