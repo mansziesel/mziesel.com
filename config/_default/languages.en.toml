@@ -18,7 +18,7 @@ dateFormat = "2 January 2006"
    headline = "Student at ROC van Twente"
    # bio = "A little bit about you"
    links = [
-     { email = "mailto:mans@mziesel.com" },
+#     { email = "mailto:mans@mziesel.com" },
      { github = "https://github.com/mansziesel" },
      { linkedin = "https://linkedin.com/in/mansziesel" },
    ]
